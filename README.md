@@ -1,6 +1,6 @@
 ## Unit 05 Third-Party APIS Homework: Day Planner
  
-<img width="1200" alt="app" src="image.png" >
+<img width="1200" alt="app" src="https://github.com/orenderos/Homework-5-Daily-Planner/blob/master/Image.png" >
 
 Day Planner – A calendar application that allows said individual to save his or her events from a 9am to 5pm setting. This application will run in the browser and feature dynamically updated HTML and CSS. At the top of the application the current date can be found as well as a current time highlighted accordingly. 
 
